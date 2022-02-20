@@ -1,0 +1,24 @@
+{
+  "posts": [
+    {
+      "name": "javad2222",
+      "email": "javad@gmail.com",
+      "id": 1
+    },
+    {
+      "name": "Mohammad",
+      "email": "mohammadborabadi0@gmail.com",
+      "id": 2
+    },
+    {
+      "name": "Reza",
+      "email": "reza@gmail.com",
+      "id": 3
+    },
+    {
+      "name": "ddd4",
+      "email": "dd@yahoo.com",
+      "id": 4
+    }
+  ]
+}
